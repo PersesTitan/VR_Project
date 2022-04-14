@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\un\\Map\\Source\\Map\\Map.Build.cs",
+		"D:\\un\\Map\\Source\\Map.Target.cs",
+		"D:\\un\\Map\\Source\\MapEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
