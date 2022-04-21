@@ -5,15 +5,11 @@
 </br> 언리얼를 이용한 맵 구현
 
 
->>참고한 링크
->>https://www.relativty.com/
+>참고한 링크
+>https://www.relativty.com/
 
 
----
-
-
-
-##아두이노 듀, MPU-6050 사이 연결
+#아두이노 듀, MPU-6050 사이 연결
 
 ```
 아두이노듀   MPU-6050
