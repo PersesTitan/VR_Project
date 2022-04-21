@@ -9,10 +9,16 @@
 >https://www.relativty.com/
 
 
-## 아두이노 듀, MPU-6050 사이 연결
+</br>
+</br>
+
+
+
+### 아두이노 듀, MPU-6050 사이 연결
 
 ```
-아두이노듀   MPU-6050
+아두이노듀 | MPU-6050
+
 5V      -> VCC  
 GND     -> GND  
 SDA(20) -> SDA  
