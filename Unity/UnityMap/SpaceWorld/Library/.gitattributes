@@ -1,2 +1,2 @@
 * linguist-vendored
-*.rb linguist-language=Groovy
+*.cs linguist-language=Groovy
