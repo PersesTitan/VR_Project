@@ -1,2 +1,2 @@
-* linguist-vendored
+# * linguist-vendored
 *.cs linguist-language=groovy
