@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/GoogleVR/Scripts/InstantPreview/Internal/InstantPreview.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/PlayerController.cs" Line="17" Column="44" />
+      <File FileName="Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/GoogleVR/Scripts/Controller/GvrTrackedController.cs" Line="1" Column="1" />
+      <File FileName="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" Line="76" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceWorld" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="GoogleVR" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Controller" expanded="True" />
+                    <Node name="EventSystem" expanded="True" />
+                    <Node name="InstantPreview" expanded="True">
+                      <Node name="Internal" expanded="True" />
+                    </Node>
+                    <Node name="GvrEditorEmulator.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="script" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fcb1584b-3f9f-460c-b685-310a850f2995" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
