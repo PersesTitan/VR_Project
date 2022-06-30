@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: bcda709a325874548b02643cd975d679
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_bin_pipes_orange
+    second: {fileID: 2100000, guid: 1c252682864b9469cb3c11cdcff517d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_fluorescent_cool_dim
+    second: {fileID: 2100000, guid: 287442092599148929ecf54201a4fc05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_glass_repair_kiosks
+    second: {fileID: 2100000, guid: 1f2b09c10028342fc96bdbdcdf392ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_m20_glass_panel_floor_repair
+    second: {fileID: 2100000, guid: 12d84ed254aab4a058bba928b6698eb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_m70_metal_grate
+    second: {fileID: 2100000, guid: 0bef66457d6c5454c9d3df7db11d0357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_base_ext_a
+    second: {fileID: 2100000, guid: 79568bdf2b92d41c7b3ffff0c1afc284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_flat_dynamic_light
+    second: {fileID: 2100000, guid: 20569d4107f8842bbaf3bc6b2f553345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_industrial_panels
+    second: {fileID: 2100000, guid: 57f7fa9005509406c831b8e727ac425e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_oni_int_panel_k
+    second: {fileID: 2100000, guid: 0de22281acd3542539d573740dd64fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_outpost_strip
+    second: {fileID: 2100000, guid: 3432c0fc2665f47fb8cc37a62229776a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_panel_default
+    second: {fileID: 2100000, guid: d49f101279ac144208abfd085a154662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_panel_holey
+    second: {fileID: 2100000, guid: 2d6f74200967e40c69473d31b8de3fb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_panel_strippy
+    second: {fileID: 2100000, guid: 7c818645498b54b5e9f886ca9d4ea9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_panelly_vert
+    second: {fileID: 2100000, guid: 848a3ed77283e4532b2576fc63af21fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_structured
+    second: {fileID: 2100000, guid: e3b966f4f067d4329be2141e9afb1b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_structured_thick
+    second: {fileID: 2100000, guid: 23a9824c9ff0847309516e01fbf2655c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_trim_a
+    second: {fileID: 2100000, guid: 07042a5ee400b451da20f005722e3ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_trim_c
+    second: {fileID: 2100000, guid: 6e6e2c4cb4a4e4acfaae0ecfd0706ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_trim_industrial
+    second: {fileID: 2100000, guid: 5a943d5de18b644dea7165f4277e7f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_trim_industrial_lighter
+    second: {fileID: 2100000, guid: a0fb7929dd1cf487bb7cae8fa8354547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_trim_kiosk
+    second: {fileID: 2100000, guid: b0ec93eba5def49459b75fb7935d264a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_metal_white_stripe
+    second: {fileID: 2100000, guid: 4a203059a83294570a001acd87383158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_missile_metal
+    second: {fileID: 2100000, guid: 626769d5f6aa742a9a18dded52fa2a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_polymer_panel
+    second: {fileID: 2100000, guid: 858d4baa71b4542e1aa67c5efed81730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_polymer_panel_trim
+    second: {fileID: 2100000, guid: e13189fd5a049465092daed57d858e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_base_trim_a_weapon_lit
+    second: {fileID: 2100000, guid: d987be8823c304c3383061c4e3c7a31c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_m60_metal_dark_rusted_ice_cave
+    second: {fileID: 2100000, guid: 38ff28add7e3149748a015cfa4974638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_m70_metal_braided_steel
+    second: {fileID: 2100000, guid: 63c7b346ce0f74308805e895b3d0a6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_metal_generic_weapon
+    second: {fileID: 2100000, guid: fef9cf26e453249d68a7cac7290ad5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_metal_oni_ext_panel_b_orange
+    second: {fileID: 2100000, guid: 04d130037d55d4b3eba4cd40e839ac50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_metal_panel_a
+    second: {fileID: 2100000, guid: ead26d1759dcf4e8d86262203f59cafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_metal_panel_simple
+    second: {fileID: 2100000, guid: d4b8c2df5948143c89c378833796bffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_metal_tile_dark
+    second: {fileID: 2100000, guid: 5eebbc3764ebb4e0198eb1733ac2b690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_monitor_bank_screen2
+    second: {fileID: 2100000, guid: 2ede55ee8b4c842e0a127ab4ae4664b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_monitor_bank_screen_a
+    second: {fileID: 2100000, guid: 2df5f6d5cce654a8e81d27402331de5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_monitor_bank_screen_b
+    second: {fileID: 2100000, guid: 201b533a0144d46c5a40ef5de9313a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_monitor_bank_screen_c
+    second: {fileID: 2100000, guid: 8400fa5dc2e4645d5a69e3c2c4700858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_panel_b
+    second: {fileID: 2100000, guid: dcf2bd8d5bcda4b0f88cdfa3fafb30c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_panel_b_white
+    second: {fileID: 2100000, guid: f361edcc424714069bfb83bc4d983503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_panel_indus_trims_a_grey
+    second: {fileID: 2100000, guid: 577b704da81224df3b383e8d9ac88c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_panel_indus_trims_a_yellow_ceiling_track
+    second: {fileID: 2100000, guid: c0adcc965b07544d1a2337d625393bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_spacewafer_panel_c
+    second: {fileID: 2100000, guid: e869ef33e7aca41d9bf61e0bda2697a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_spacewafer_panel_f
+    second: {fileID: 2100000, guid: 80eadb774667c483ea8e785dda6756d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_spacewafer_panel_g
+    second: {fileID: 2100000, guid: 7d746bf613dc241bc86232e241ecc5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_spacewafer_panel_j
+    second: {fileID: 2100000, guid: 492b4f0cb28a04f89b5e4b14de1cbe39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_spacewafer_panel_n
+    second: {fileID: 2100000, guid: eb9e46ddb80fe4c65b13cee75140ca53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_unsc_metal_flat_med_pipes
+    second: {fileID: 2100000, guid: 1189e38662a1742a9866f2a9f564fd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_wafer_frigate_test_gameplay_decals
+    second: {fileID: 2100000, guid: bfe7bd100cea9439e8975ff83c578767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_wafer_metal_oni_int_trim_simple_a_really_dark
+    second: {fileID: 2100000, guid: ac944f4c830c14f349e68cbb20b8ed0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_s_wafer_space_beacon
+    second: {fileID: 2100000, guid: 8788e18b3d5914ac8b10c7a131995ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_sabre_body_copper
+    second: {fileID: 2100000, guid: 042bf46ab92984183a5216db86331f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_sabre_frame_metal
+    second: {fileID: 2100000, guid: 22fa433de543a44a08f0ea512e60d8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_base_trim_a
+    second: {fileID: 2100000, guid: 42108809c55ab4a0c86cb402a94fdb8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_base_trim_a_white_light
+    second: {fileID: 2100000, guid: 671b69abe9a66466db5387ed720e6046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_env_crates_composite
+    second: {fileID: 2100000, guid: 56d3848c5a5704000a3c8b96cafe22cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_floor
+    second: {fileID: 2100000, guid: 89af3665a8d2b43749b4645fdb85398b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_floor_tiedown
+    second: {fileID: 2100000, guid: 00c1c20eb621640cda6cf4b9c9863c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_floor_track
+    second: {fileID: 2100000, guid: d55be2f8d399c44e5a441f6ebbd6521f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_light_small_white
+    second: {fileID: 2100000, guid: d598cd8abaa5b4d1c97e278bb3cd4b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_repair_door
+    second: {fileID: 2100000, guid: 2e746c773e3564dcda19909d0021c984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_stair
+    second: {fileID: 2100000, guid: 2a9bbbbf7b101421e9b2770231e8d0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_slayer_wall
+    second: {fileID: 2100000, guid: 59ee79f1df2cb4ed59bf5bde955aad56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_stripes
+    second: {fileID: 2100000, guid: 1ac501cf837ef438d8e68b570aff0e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_t_ind_metal_pipes_subfloor
+    second: {fileID: 2100000, guid: c7558eafe0994419fb234edd46e04f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_tech_bank
+    second: {fileID: 2100000, guid: 8045f68e6d498451c801855c1b143596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wafer_frigate_test_gameplay
+    second: {fileID: 2100000, guid: 9b014f22615c54e72ad212f5cad15510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wafer_grate_ceiling_panel
+    second: {fileID: 2100000, guid: 73a06448d7a00483bb5340c2cff264d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wafer_grate_ceiling_panel_trim
+    second: {fileID: 2100000, guid: 6ceffb7e7726646f2bdb24612e3bbd98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wafer_shared_light_strip
+    second: {fileID: 2100000, guid: 78555ebb1b69141b68cc397a4d8b1ee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wafer_shared_tech_a
+    second: {fileID: 2100000, guid: 8fd648dd972da4eb9956109d665a0186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_windowbox_metal_trim_hollow
+    second: {fileID: 2100000, guid: e1bb28828af6d416dae6bad8baa529a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_windowbox_subfloor_a
+    second: {fileID: 2100000, guid: 2c7822de2457449cf92143473ea5f8f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wire_human
+    second: {fileID: 2100000, guid: 55047ffa859224f8e85fcafb0fa0051a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wire_tech
+    second: {fileID: 2100000, guid: e1e10105d4d01400995f3fb6d8882336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_wireframe_supports
+    second: {fileID: 2100000, guid: 1b74c5fc5a17b418baf9bb0c0ec76e2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dlc_y_slayer_squarelens_warm
+    second: {fileID: 2100000, guid: c0992d548901a49d7aa3381687550ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: future_bolts
+    second: {fileID: 2100000, guid: b972ecead573c473db9f686a17e89a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_dlc_grate_ceiling_panel
+    second: {fileID: 2100000, guid: 6e1cfc5f1b14e4ede9170a783d9fffad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_dlc_m20_metal_dark
+    second: {fileID: 2100000, guid: 08479ee2476c84fb98a3206dfb412e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_dlc_wafer_girder_a
+    second: {fileID: 2100000, guid: d3815739b2a9747368d9c9e6412cc1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_dlc_wafer_girder_b
+    second: {fileID: 2100000, guid: 2dc15e1267b064e16a0b63d2bf7df2f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_metal_oni_ext_panel_b_orange
+    second: {fileID: 2100000, guid: a4cd82eef664445778174770c76d85c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_a
+    second: {fileID: 2100000, guid: 08abb4e08b460435380d42b2e8b87f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_b
+    second: {fileID: 2100000, guid: ee6626f1937f24c5f9a2bb2d86de9ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_c
+    second: {fileID: 2100000, guid: 37a7f299b17544f638b13a208ff9d096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_f
+    second: {fileID: 2100000, guid: 8b1790a5f821345d8b241ceb06e5c914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_j
+    second: {fileID: 2100000, guid: 407aab914b2f44d7bb17fed68e483928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wafer_spacewafer_panel_o
+    second: {fileID: 2100000, guid: b2520428ea12c48a79816dff52684e9d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

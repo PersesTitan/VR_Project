@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4B537265-1057-24A1-024E-1506492D4943}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Rotate.cs">
+    <Files>
+      <File FileName="Assets/script/SeePlant.cs" Line="34" Column="11" />
+      <File FileName="target/Rotate.cs" />
+      <File FileName="Assets/script/Rotate.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CubeWorld" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="df5c4b27-8872-449d-a8c9-f4462ac88589" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
